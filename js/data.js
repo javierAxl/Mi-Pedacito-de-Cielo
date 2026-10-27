@@ -1,5 +1,5 @@
 // Todo el contenido editable vive aquí: cambia nombres, objetos y mensajes a tu gusto.
-const CONFIG = { name: "Ashley", cat: "Mimi" };
+const CONFIG = { name: "Ashley", cat: "Kate" };
 
 // Gerbera rosada dibujada en SVG (dos capas de pétalos y centro).
 const GERBERA = (() => {
