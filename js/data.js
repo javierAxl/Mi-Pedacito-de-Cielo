@@ -28,7 +28,7 @@ const OBJECTS = [
 const SECRET = {
   icon: "🌙", title: "Un secreto",
   text: "Encontraste algo que ya conocias, solo para ti: cien cosas que me gustan de ti. Y aun así me faltan muchas más.",
-  url: "100-cosas.html", button: "Abrir mi secreto"
+  url: "css/100-cosas.html", button: "Abrir mi secreto"
 };
 
 const CAT_LINES = [
